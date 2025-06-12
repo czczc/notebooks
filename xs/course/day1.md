@@ -18,9 +18,9 @@ We aim to answer:
 
 The weak interaction is part of the electroweak sector of the Standard Model:
 
-$$
+```math
 \mathcal{L}_\text{int} = \frac{g}{\sqrt{2}} \left( \bar{\ell}_L \gamma^\mu \nu_L W_\mu^- + \bar{u}_L \gamma^\mu d_L W_\mu^+ \right) + \text{h.c.} + \frac{g}{2\cos\theta_W} \sum_f \bar{f} \gamma^\mu (g_V^f - g_A^f \gamma^5) f Z_\mu
-$$
+```
 
 Key points:
 
