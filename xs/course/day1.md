@@ -40,9 +40,9 @@ $$
 
 This proceeds via **t-channel** exchange of a $Z^0$ boson for NC, or a $W^-$ boson for CC (if same flavor). The matrix element is:
 
-$$
+```math
 \mathcal{M} = \frac{G_F}{\sqrt{2}} \left[ \bar{u}_\nu \gamma^\mu (1 - \gamma^5) u_\nu \right] \left[ \bar{u}_e \gamma_\mu (g_V - g_A \gamma^5) u_e \right]
-$$
+```
 
 For low-energy (much less than $M_W$), the weak interaction is approximated by a 4-fermion contact interaction with coupling $G_F \approx 1.166 \times 10^{-5} \, \text{GeV}^{-2}$.
 
@@ -76,9 +76,9 @@ $$
 
 The hadronic current is expressed as:
 
-$$
+```math
 J^\mu = \bar{u}_p \left[ F_1(Q^2)\gamma^\mu + F_2(Q^2)\frac{i\sigma^{\mu\nu} q_\nu}{2M} + F_A(Q^2) \gamma^\mu \gamma^5 + F_P(Q^2) q^\mu \gamma^5 \right] u_n
-$$
+```
 
 Where:
 
@@ -88,9 +88,9 @@ Where:
 
 The matrix element is then:
 
-$$
+```math
 \mathcal{M} = \frac{G_F \cos\theta_C}{\sqrt{2}} [\bar{u}_\mu \gamma^\mu (1 - \gamma^5) u_\nu] \cdot [\bar{u}_p J_\mu u_n]
-$$
+```
 
 Where $\theta_C$ is the Cabibbo angle (\~13°), accounting for quark mixing.
 
