@@ -21,7 +21,7 @@ Goals:
 
 Experiments: ANL, BNL, Gargamelle, BEBC, SKAT.
 
-* Used **hydrogen (H$_2$)** or **deuterium (D$_2$)** bubble chambers.
+* Used **hydrogen ($H_2$)** or **deuterium ($D_2$)** bubble chambers.
 * Targets: effectively free nucleons → no nuclear effects.
 * Visual reconstruction of tracks and interaction vertices.
 
