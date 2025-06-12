@@ -6,16 +6,16 @@
 
 | **Day** | **Part & Topic**                                                     | **Key Focus**                                                                                                             |
 | ------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **1**   | *Part I: Theory* – Weak Interaction Formalism & Basics               | Neutrino weak interactions; cross-section formalism on nucleons (H)                                                       |
-| **2**   | *Part I: Theory* – Quasi-Elastic (QE) Scattering                     | CCQE on nucleons vs. nuclei (H vs C/Ar); form factors; nuclear models                                                     |
-| **3**   | *Part I: Theory* – Resonance & Pion Production                       | \$\Delta\$ resonance production; single-pion channels; coherent scattering                                                |
-| **4**   | *Part I: Theory* – Deep Inelastic Scattering (DIS)                   | Parton model; structure functions; transition to DIS in nuclei (shadowing)                                                |
-| **5**   | *Part II: Generators* – Introduction to Event Generators (GENIE)     | GENIE framework; physics models for QE, RES, DIS; generator workflow                                                      |
-| **6**   | *Part II: Generators* – Other Generators & Uncertainties             | NEUT, NuWro, GiBUU comparisons; model uncertainties; generator tuning                                                     |
-| **7**   | *Part III: Experiments* – Neutrino Cross-Section Experiments         | Historical (bubble chambers) to modern (MiniBooNE, MINERvA, T2K, MicroBooNE); inclusive vs. exclusive measurements        |
-| **8**   | *Part III: Experiments* – Detectors & Reconstruction                 | Detector technologies (LAr TPC, water Cherenkov, scintillator); event reconstruction challenges; final-state interactions |
-| **9**   | *Part III: Experiments* – Cross Sections in DUNE                     | DUNE Near Detector program; argon-target cross-section measurements; reducing model uncertainties                         |
-| **10**  | *Part III: Experiments* – Synthesis & Future Directions (optional)\* | Synthesis of theory, generators, data; future improvements (e.g. lattice QCD for form factors, new detector strategies)   |
+| [1](day01.md)   | *Part I: Theory* – Weak Interaction Formalism & Basics               | Neutrino weak interactions; cross-section formalism on nucleons (H)                                                       |
+| [2](day02.md)   | *Part I: Theory* – Quasi-Elastic (QE) Scattering                     | CCQE on nucleons vs. nuclei (H vs C/Ar); form factors; nuclear models                                                     |
+| [3](day03.md)   | *Part I: Theory* – Resonance & Pion Production                       | \$\Delta\$ resonance production; single-pion channels; coherent scattering                                                |
+| [4](day04.md)   | *Part I: Theory* – Deep Inelastic Scattering (DIS)                   | Parton model; structure functions; transition to DIS in nuclei (shadowing)                                                |
+| [5](day05.md)   | *Part II: Generators* – Introduction to Event Generators (GENIE)     | GENIE framework; physics models for QE, RES, DIS; generator workflow                                                      |
+| [6](day06.md)   | *Part II: Generators* – Other Generators & Uncertainties             | NEUT, NuWro, GiBUU comparisons; model uncertainties; generator tuning                                                     |
+| [7](day07.md)   | *Part III: Experiments* – Neutrino Cross-Section Experiments         | Historical (bubble chambers) to modern (MiniBooNE, MINERvA, T2K, MicroBooNE); inclusive vs. exclusive measurements        |
+| [8](day08.md)   | *Part III: Experiments* – Detectors & Reconstruction                 | Detector technologies (LAr TPC, water Cherenkov, scintillator); event reconstruction challenges; final-state interactions |
+| [9](day09.md)   | *Part III: Experiments* – Cross Sections in DUNE                     | DUNE Near Detector program; argon-target cross-section measurements; reducing model uncertainties                         |
+| [10](day10.md)  | *Part III: Experiments* – Synthesis & Future Directions (optional)\* | Synthesis of theory, generators, data; future improvements (e.g. lattice QCD for form factors, new detector strategies)   |
 
 *Note: If a shorter 7-day schedule is needed, selected topics can be combined (e.g. merge Days 3–4, 5–6, or 9–10) while preserving the three-part structure.*
 
