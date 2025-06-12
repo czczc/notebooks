@@ -15,8 +15,10 @@ Quasi-elastic (QE) scattering is one of the most important neutrino interaction 
 For free nucleons:
 
 ```math
-\nu_\ell + n \rightarrow \ell^- + p \\
-\bar{\nu}_\ell + p \rightarrow \ell^+ + n
+\begin{aligned}
+  \nu_\ell + n & \rightarrow \ell^- + p \\
+  \bar{\nu}_\ell + p& \rightarrow \ell^+ + n \\
+\end{aligned}
 ```
 
 This process proceeds via $W^\pm$ exchange and is mediated by the charged weak current.
