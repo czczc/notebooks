@@ -16,8 +16,8 @@ For free nucleons:
 
 ```math
 \begin{aligned}
-  \nu_\ell + n & \rightarrow \ell^- + p \\
-  \bar{\nu}_\ell + p& \rightarrow \ell^+ + n \\
+  & \nu_\ell + n \rightarrow \ell^- + p \\
+  & \bar{\nu}_\ell + p \rightarrow \ell^+ + n \\
 \end{aligned}
 ```
 
@@ -100,8 +100,10 @@ Using the Llewellyn Smith formalism, the differential cross section for CCQE is:
 with the structure functions:
 
 ```math
-A(Q^2) = m_\ell^2 \left( \frac{(F_1 + F_2)^2}{4M^2} + \frac{F_A^2}{Q^2} \right) + \cdots \\
-B(Q^2), C(Q^2): \text{additional form factor combinations}
+\begin{aligned}
+& A(Q^2) = m_\ell^2 \left( \frac{(F_1 + F_2)^2}{4M^2} + \frac{F_A^2}{Q^2} \right) + \cdots \\
+& B(Q^2), C(Q^2): \text{additional form factor combinations} \\
+\end{aligned}
 ```
 
 Note: For most practical applications at GeV energies and with muons, $m_\ell$ terms can often be neglected.
@@ -130,7 +132,7 @@ This asymmetry arises due to helicity suppression and the structure of the weak 
 
 ### 5.1 Key Effects in Nuclei
 
-When neutrinos scatter off bound nucleons inside a nucleus (e.g., $^{12}$C or $^{40}$Ar), we must account for:
+When neutrinos scatter off bound nucleons inside a nucleus (e.g., C or Ar), we must account for:
 
 * **Fermi Motion:** Nucleons are not at rest; they have a momentum distribution.
 * **Pauli Blocking:** Final-state nucleons must occupy available quantum states.
