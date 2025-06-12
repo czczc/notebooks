@@ -46,10 +46,12 @@ Mediated by $W^\pm$ exchange (CC) or $Z^0$ (NC), depending on the interaction.
 Define standard DIS variables:
 
 ```math
-Q^2 = -q^2 = -(k - k')^2 \quad \text{(momentum transfer)} \\
-x = \frac{Q^2}{2 M \nu} \quad \text{(Bjorken-x, fraction of nucleon momentum)} \\
-y = \frac{\nu}{E_\nu} \quad \text{(inelasticity)} \\
-W^2 = (p + q)^2 = M^2 + 2 M \nu - Q^2 \quad \text{(invariant mass of hadronic system)}
+\begin{aligned}
+& Q^2 = -q^2 = -(k - k')^2 \quad \text{(momentum transfer)} \\
+& x = \frac{Q^2}{2 M \nu} \quad \text{(Bjorken-x, fraction of nucleon momentum)} \\
+& y = \frac{\nu}{E_\nu} \quad \text{(inelasticity)} \\
+& W^2 = (p + q)^2 = M^2 + 2 M \nu - Q^2 \quad \text{(invariant mass of hadronic system)} \\
+\end{aligned}
 ```
 
 Where:
